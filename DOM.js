@@ -28,7 +28,7 @@
 // var divTitle = document.getElementsByClassName('title');
 // divTitle[0].style.fontWeight = 'bold';
 // divTitle[0].style.color = 'green';
-
+// Get Elements by class Name
 var items = document.getElementsByClassName('list-group-item');
 console.log(items);
 console.log(items[1]);
